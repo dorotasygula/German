@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+h1 {
+    font-family: 'Bungee Inline', cursive;
+    text-align: center;
+    text-shadow: 2px 2px red;
+  }
+
+img {
+    width: 300px;
+}
+
+img:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
